@@ -3,7 +3,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=databricks&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 > *"Data is the new oil — and those who learn to refine it, shape the future."*
 
@@ -15,18 +14,6 @@ A comprehensive **Student Performance & Attendance Tracker** built with MySQL �
 
 Education deserves better tools. This project was built with the belief that every student's journey — their attendance, their growth, their performance — deserves to be tracked with care and precision. By harnessing the power of relational databases, **Student Tracker** turns raw data into actionable insights that help educators uplift every learner.
 
----
-
-## 👨‍💻 Author
-
-<div align="center">
-
-![Author](https://img.shields.io/badge/🚀_RENSEE_GAIPARA-Full_Stack_SQL_Developer-6C3483?style=for-the-badge)
-
-*"Every expert was once a beginner. Every pro was once an amateur."*
-*Keep building. Keep learning. Keep growing.* 💡
-
-</div>
 
 ---
 
@@ -233,9 +220,18 @@ brings you one step closer to becoming the developer you aspire to be.
 
 ---
 
+## 👨‍💻 Author
+
 <div align="center">
 
-Made with ❤️ and lots of ☕ by **RENSEE GAIPARA**
+![Author](https://img.shields.io/badge/🚀_RENSEE_GAIPARA-Full_Stack_SQL_Developer-6C3483?style=for-the-badge)
+
+*"Every expert was once a beginner. Every pro was once an amateur."*
+*Keep building. Keep learning. Keep growing.* 💡
+
+</div>
+
+<div>
 
 ![Visitor](https://img.shields.io/badge/Keep_Learning-Never_Stop-FF6B6B?style=for-the-badge)
 
