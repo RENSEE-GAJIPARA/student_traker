@@ -226,13 +226,10 @@ brings you one step closer to becoming the developer you aspire to be.
 
 ![Author](https://img.shields.io/badge/🚀_RENSEE_GAIPARA-Full_Stack_SQL_Developer-6C3483?style=for-the-badge)
 
-*"Every expert was once a beginner. Every pro was once an amateur."*
-*Keep building. Keep learning. Keep growing.* 💡
-
-</div>
-
-<div>
 
 ![Visitor](https://img.shields.io/badge/Keep_Learning-Never_Stop-FF6B6B?style=for-the-badge)
+
+*"Every expert was once a beginner. Every pro was once an amateur."*
+*Keep building. Keep learning. Keep growing.* 💡
 
 </div>
