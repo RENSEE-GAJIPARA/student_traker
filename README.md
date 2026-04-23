@@ -202,6 +202,8 @@ I put the brief explanation video of this project in my repo to make it more cle
 
 I hope it will help you to understand the project well.
 
+---
+
 ## 📁 Project Structure
 
 ```
