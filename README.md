@@ -196,6 +196,10 @@ SHOW TABLES;
 
 ---
 
+## Project Explanation Video
+
+[![Watch Demo](thumbnail.png)](./Explanation video.mp4)
+
 ## 📁 Project Structure
 
 ```
